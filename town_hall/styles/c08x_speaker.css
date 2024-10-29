@@ -167,13 +167,13 @@ footer p {
 }
 
 /* screen widths 768px to 959px */
-@media only screen and (max-width: 959px) {
+@media only screen and (max-width: 650px) {
 	section h1 { font-size: 135%; }
 	section h2, aside h2 { font-size: 120%; }
 }
 
 /* screen widths 480px to 767px */
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 650px) {
 	header img { float: none; }
 	header {
         display: flex;
