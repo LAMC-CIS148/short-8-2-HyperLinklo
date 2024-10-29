@@ -294,7 +294,7 @@ footer p {
 		padding-right: 2.5%;
 		width: 95%;
 	}
-	article img { max-width: 30%; }
+	article img { max-width: 90%; }
 	#speakers {
 		column-count: 2;
 	}
