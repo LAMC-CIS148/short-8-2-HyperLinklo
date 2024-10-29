@@ -35,7 +35,6 @@ header h3 {
 	font-style: italic;
 }
 header img {
-	float: left;
 	padding: 0 3.75%;
 }
 .shadow {
@@ -176,7 +175,7 @@ footer p {
 
 /* screen widths 480px to 767px */
 @media only screen and (max-width: 767px) {
-	header img { float: none; }
+	header img { : none; }
 	header {
         display: flex;
         text-align: center;
