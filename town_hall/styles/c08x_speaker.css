@@ -196,7 +196,9 @@ aside img {
 /* the styles for the navigation list */
 
 #nav_list ul {
-
+	
+    float:left;
+	
     list-style: none;
 
     margin-left: 0;
